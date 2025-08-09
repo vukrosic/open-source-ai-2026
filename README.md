@@ -28,7 +28,7 @@ Open source AI research and engineering should reach the frontier during 2026.
 ### 🔍 DeepSeek V3 From Scratch
 - [YouTube](https://youtu.be/TfEG0TwueTs)
 - [Bilibili](https://www.bilibili.com/video/BV1M3oiYhEbK)
-- [GitHub (I didn't code my version)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
+- [GitHub (using DeepSeek's code)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
 
 ## 🌍 Vision
 
