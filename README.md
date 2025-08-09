@@ -1,28 +1,28 @@
 # 🚀 Open Source AI Research
 
-Code & Train GPT-5 From Scratch
+### 🤖 Code & Train GPT-5 From Scratch
 - [YouTube](https://youtu.be/xzCJpWliUE0)
 - [Bilibili](https://www.bilibili.com/video/BV1yft6zGErW)
-- [GitHib](https://github.com/vukrosic/gpt5-from-scratch)
+- [GitHub](https://github.com/vukrosic/gpt5-from-scratch)
 - [Google Colab](https://colab.research.google.com/drive/1Ga4Dfy-MdxZLiOQcGH00z1-9wms0zrse?usp=sharing)
-- [Jupyther Notebook](https://github.com/vukrosic/gpt5-from-scratch/blob/main/gpt5_from_scratch.ipynb)
+- [Jupyter Notebook](https://github.com/vukrosic/gpt5-from-scratch/blob/main/gpt5_from_scratch.ipynb)
 
 
-Code & Train Qwen3 From Scratch
+### 🧠 Code & Train Qwen3 From Scratch
 - [YouTube](https://youtu.be/wM-KP_wNAeY)
 - [Bilibili](https://www.bilibili.com/video/BV1P9tizcEKD/)
-- [GitHib](https://github.com/vukrosic/qwen3-from-scratch)
+- [GitHub](https://github.com/vukrosic/qwen3-from-scratch)
 - [Google Colab](https://colab.research.google.com/drive/12ndGn_mI7R1GTbGS8I2EvajW50esJRRk?usp=sharing)
 
-Code & Train Llama4 From Scratch
+### 🦙 Code & Train Llama4 From Scratch
 - [YouTube](https://youtu.be/wcDV3l4CD14)
 - [Bilibili](https://www.bilibili.com/video/BV1HvdsYHEEE)
-- [GitHib](https://github.com/vukrosic/courses/tree/main/llama4)
+- [GitHub](https://github.com/vukrosic/courses/tree/main/llama4)
 
-DeepSeek V3 From Scratch
+### 🔍 DeepSeek V3 From Scratch
 - [YouTube](https://youtu.be/TfEG0TwueTs)
 - [Bilibili](https://www.bilibili.com/video/BV1M3oiYhEbK)
-- [GitHib (I didn't code mine version](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
+- [GitHub (I didn't code my version)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
 
 ## 🎯 Mission Statement
 
