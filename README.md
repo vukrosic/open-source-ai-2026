@@ -1,5 +1,9 @@
 # 🚀 Open Source AI Research
 
+## 🎯 Mission Statement
+
+Open source AI research and engineering should reach the frontier during 2026.
+
 ### 🤖 Code & Train GPT-5 From Scratch
 - [YouTube](https://youtu.be/xzCJpWliUE0)
 - [Bilibili](https://www.bilibili.com/video/BV1yft6zGErW)
@@ -23,10 +27,6 @@
 - [YouTube](https://youtu.be/TfEG0TwueTs)
 - [Bilibili](https://www.bilibili.com/video/BV1M3oiYhEbK)
 - [GitHub (I didn't code my version)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
-
-## 🎯 Mission Statement
-
-Open source AI research and engineering should reach the frontier during 2026.
 
 ## 🌍 Vision
 
