@@ -1,8 +1,8 @@
-# Open Source AI Research Initiative
+# Open Source AI Research
 
 ## Mission Statement
 
-Open source AI research and engineering will be at the frontier by August 2026.
+Open source AI research and engineering should reach the frontier during 2026.
 
 ## Vision
 
