@@ -2,7 +2,7 @@
 
 ## 🎯 Mission Statement
 
-Open source AI research and engineering should reach the frontier during 2026.
+We aim for open source AI research and engineering to reach the frontier by the end of 2026. 
 
 ## 📚 My Corses:
 
