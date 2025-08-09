@@ -20,7 +20,7 @@ We aim for open source AI research and engineering to reach the frontier by the 
 - [GitHub](https://github.com/vukrosic/qwen3-from-scratch)
 - [Google Colab](https://colab.research.google.com/drive/12ndGn_mI7R1GTbGS8I2EvajW50esJRRk?usp=sharing)
 
-### 🦙 Code & Train Llama4 From Scratch
+### 🦙 Understand & Code Llama4 From Scratch
 - [YouTube](https://youtu.be/wcDV3l4CD14)
 - [Bilibili](https://www.bilibili.com/video/BV1HvdsYHEEE)
 - [GitHub](https://github.com/vukrosic/courses/tree/main/llama4)
