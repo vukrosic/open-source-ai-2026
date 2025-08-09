@@ -4,6 +4,8 @@
 
 Open source AI research and engineering should reach the frontier during 2026.
 
+## 📚 My Corses:
+
 ### 🤖 Code & Train GPT-5 From Scratch
 - [YouTube](https://youtu.be/xzCJpWliUE0)
 - [Bilibili](https://www.bilibili.com/video/BV1yft6zGErW)
