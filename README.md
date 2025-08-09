@@ -30,7 +30,7 @@ Open source AI research and engineering should reach the frontier during 2026.
 
 ## 🌍 Vision
 
-The future of artificial intelligence should be shaped by the global community, not controlled by a select few organizations. It belongs in the open, accessible to researchers, engineers, and innovators worldwide.
+The future of artificial intelligence should be shaped by the global community. It belongs in the open, accessible to researchers, engineers, and innovators worldwide.
 
 ## ⚡ The Challenge
 
