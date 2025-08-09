@@ -25,7 +25,7 @@ We aim for open source AI research and engineering to reach the frontier by the 
 - [Bilibili](https://www.bilibili.com/video/BV1HvdsYHEEE)
 - [GitHub](https://github.com/vukrosic/courses/tree/main/llama4)
 
-### 🔍 DeepSeek V3 From Scratch
+### 🔍 DeepSeek V3 Explained From Scratch (Math & Code)
 - [YouTube](https://youtu.be/TfEG0TwueTs)
 - [Bilibili](https://www.bilibili.com/video/BV1M3oiYhEbK)
 - [GitHub (using DeepSeek's repo)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
