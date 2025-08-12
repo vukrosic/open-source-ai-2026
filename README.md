@@ -2,7 +2,7 @@
 
 ## 🎯 Mission Statement
 
-You — the curious coder, the coffee shop enthusiast, the late-night tinkerer, the ambitious dreamer — together we will push open-source AI research and engineering to the frontier by the end of 2026 - open frontier science for everybody.
+Open source AI research and engineering should reach the frontier during 2026.
 
 ## 📚 My Corses:
 
@@ -20,12 +20,12 @@ You — the curious coder, the coffee shop enthusiast, the late-night tinkerer, 
 - [GitHub](https://github.com/vukrosic/qwen3-from-scratch)
 - [Google Colab](https://colab.research.google.com/drive/12ndGn_mI7R1GTbGS8I2EvajW50esJRRk?usp=sharing)
 
-### 🦙 Understand & Code Llama4 From Scratch
+### 🦙 Code & Train Llama4 From Scratch
 - [YouTube](https://youtu.be/wcDV3l4CD14)
 - [Bilibili](https://www.bilibili.com/video/BV1HvdsYHEEE)
 - [GitHub](https://github.com/vukrosic/courses/tree/main/llama4)
 
-### 🔍 DeepSeek V3 Explained From Scratch (Theory, Math & Code)
+### 🔍 DeepSeek V3 From Scratch
 - [YouTube](https://youtu.be/TfEG0TwueTs)
 - [Bilibili](https://www.bilibili.com/video/BV1M3oiYhEbK)
 - [GitHub (using DeepSeek's repo)](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py)
