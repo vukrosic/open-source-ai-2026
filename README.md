@@ -48,6 +48,10 @@ Traditional language models process text through tokens, but the digital world a
 **Project**: Understand why Hierarchical Reasonoing Model works and how to apply it to transformers
 - [YouTube](https://youtu.be/RK7lysjz_G0)
 
+**Project**: Make my LLM train on multiple GPUs (currnelty only one)
+
+**Project**: Research FP4 LLM pretraining and/or neural network training
+
 Follow along through [YouTube tutorials](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g) where you can fork, experiment, and contribute to pushing open source AI to the frontier.
 
 ## 🌍 Vision
