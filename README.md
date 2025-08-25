@@ -4,7 +4,7 @@
 
 Open source AI research and engineering should reach the frontier during 2026.
 
-## 📚 My Corses:
+## 📚 My Courses:
 
 ### 🤖 Code & Train GPT-5 From Scratch
 - [YouTube](https://youtu.be/xzCJpWliUE0)
@@ -48,7 +48,7 @@ Traditional language models process text through tokens, but the digital world a
 **Project**: Understand why Hierarchical Reasonoing Model works and how to apply it to transformers
 - [YouTube](https://youtu.be/RK7lysjz_G0)
 
-**Project**: Make my LLM train on multiple GPUs (currnelty only one)
+**Project**: Make my LLM train on multiple GPUs (currently only one)
 
 **Project**: Research FP4 LLM pretraining and/or neural network training
 
